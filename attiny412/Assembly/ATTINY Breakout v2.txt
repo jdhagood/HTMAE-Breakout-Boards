@@ -1,0 +1,5 @@
+Partlist exported from Team Hub: Team JD   Project: Admin Project  Board: ATTINY Breakout v2 at 9/19/2024 5:57 PM
+
+Qty Value        Device       Package Parts    Description CATEGORY DESCRIPTION MANUFACTURER MPN         OPERATING_TEMPERATURE PART_STATUS PITCH   ROHS_COMPLIANCE SERIES          SUB-CATEGORY TYPE    VALUE  
+2   PINHD-1X4    PINHD-1X4    1X04    JP2, JP3 PIN HEADER  Headers  Header       Straight     4 Position Generic               Generic     Generic Active          0.100" (2.54mm) Generic      Generic Headers
+1   UC_ATTINY412 UC_ATTINY412 SOIC8   U$1                                                                                                                                                                      
