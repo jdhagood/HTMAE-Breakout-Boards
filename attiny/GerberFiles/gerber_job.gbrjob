@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-09-19T21:57:28Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "ATTINY Breakout"
+        },
+        "Owner": "JD Hagood <jdhagood@mit.edu>",
+        "Size": {
+            "X": 26.5,
+            "Y": 12
+        }
+    }
+}
