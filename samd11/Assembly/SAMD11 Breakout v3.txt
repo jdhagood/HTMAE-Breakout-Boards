@@ -1,4 +1,4 @@
-Partlist exported from Team Hub: Team JD   Project: Admin Project  Board: SAMD11 Breakout v3 at 9/22/2024 11:52 AM
+Partlist exported from Team Hub: Team JD   Project: Admin Project  Board: SAMD11 Breakout v3 at 9/23/2024 11:17 AM
 
 Qty Value                Device               Package             Parts    Description                                                                                   AVAILABILITY DESCRIPTION                                                                              MF        MP                PACKAGE           PRICE PURCHASE-URL                                                      
 2   PINHD-1X07_1X07M     PINHD-1X07_1X07M     1X07                U$1, U$2                                                                                                                                                                                                                                                                                                                           

@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2024-09-22T15:52:17Z",
+        "CreationDate": "2024-09-23T15:17:39Z",
         "GenerationSoftware": {
             "Application": "Fusion Electronics",
             "Vendor": "Autodesk",
@@ -13,7 +13,7 @@
         "BoardThickness": 1.57,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "Untitled"
+            "ProjectId": "SAMD11 Breakout v3"
         },
         "Owner": "JD Hagood <jdhagood@mit.edu>",
         "Size": {
